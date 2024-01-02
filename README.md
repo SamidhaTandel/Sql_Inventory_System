@@ -1,5 +1,5 @@
-## 💊 Sql_Inventory_System
-Inventory System SQL Project
+### 💊 Sql_Inventory_System
+📀Inventory System SQL Project
 Welcome to the Inventory System SQL Project! The primary goal is to create an efficient inventory system using SQL, and various functionalities have been implemented to achieve this.
 
 ### 🔑 Implemented Functionalities
